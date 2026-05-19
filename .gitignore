@@ -1,0 +1,5 @@
+# Keep generated local artifacts out of the public portfolio.
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
