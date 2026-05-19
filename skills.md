@@ -20,6 +20,15 @@
 | Monitoring | Checkmk, Wazuh, host and service-level checks |
 | Infrastructure | Linux, Windows Server contexts, VMware, Hetzner infrastructure |
 
+## AI-assisted Engineering
+
+| Area | Technologies / Practices |
+| --- | --- |
+| Daily tools | OpenAI / ChatGPT / Codex, Claude, Gemini, GitHub Copilot |
+| Agentic coding | Repository exploration, implementation support, review, test ideas, documentation synthesis |
+| Engineering support | Debugging hypotheses, architecture exploration, refactoring options, code review checklists |
+| Knowledge work | Personal knowledge management, personal assistant workflows, notes, tasks, decision support |
+
 ## Security, Identity & MSP
 
 | Area | Technologies |
@@ -38,4 +47,3 @@
 | Integration | XML/XSLT, SAP-adjacent workflows, web services, BPMN |
 
 [Back to overview](README.md)
-
