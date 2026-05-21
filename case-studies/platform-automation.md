@@ -6,7 +6,7 @@ In a managed-service environment, server setup, hardening, monitoring, backup re
 
 ## Work
 
-- Built and maintained Ansible playbooks for Linux and Windows agents, server baselines, backup repository onboarding, monitoring, and SIEM rollout.
+- Built and maintained Ansible playbooks for Linux and Windows agents, server baselines, backup repository onboarding, Checkmk/Wazuh rollout, and SIEM work.
 - Contributed to a Docker-based internal service platform with Traefik, Compose stacks, health checks, persistent volumes, and Git-based changes.
 - Connected infrastructure automation with operational documentation so repeated work could be reviewed, rerun, and handed over.
 - Used GitLab CI/CD patterns for application builds, checks, and container delivery.
@@ -15,7 +15,8 @@ In a managed-service environment, server setup, hardening, monitoring, backup re
 
 ```text
 Ansible · Docker · Docker Compose · Traefik · GitLab CI/CD
-Linux · Windows agents · Checkmk · Wazuh · Bash · PowerShell
+Linux · Windows agents · Checkmk Distributed/MSP · Wazuh
+Hetzner Dedicated/Cloud · Bash · PowerShell
 ```
 
 ## Outcome
@@ -25,4 +26,3 @@ Linux · Windows agents · Checkmk · Wazuh · Bash · PowerShell
 - Better shared understanding of how internal platforms are deployed and operated.
 
 [Back to case studies](README.md)
-

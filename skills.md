@@ -17,8 +17,8 @@
 | Containers | Docker, Docker Compose, Traefik, service health checks |
 | Automation | Ansible, Bash, PowerShell, Git-based operations |
 | CI/CD | GitLab CI/CD, container builds, test automation |
-| Monitoring | Checkmk, Wazuh, host and service-level checks |
-| Infrastructure | Linux, Windows Server contexts, VMware, Hetzner infrastructure |
+| Monitoring | Checkmk Distributed/MSP, Wazuh, host and service-level checks, customer/reseller monitoring workflows |
+| Infrastructure | Linux, Windows Server contexts, VMware, Hetzner Dedicated/Cloud, bare-metal operations |
 
 ## AI-assisted Engineering
 

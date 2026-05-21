@@ -9,7 +9,8 @@ I work well in infrastructure-heavy teams that need pragmatic automation: reprod
 - Infrastructure as Code with **Ansible** for server baselines, agent rollout, backup repository provisioning, and SIEM deployment.
 - Docker-based service platforms with **Docker Compose**, **Traefik**, health checks, external volumes, and Git-based change tracking.
 - GitLab CI/CD for Java, Python, and Go projects, including container builds and automated checks.
-- Linux operations, security hardening, monitoring, alerting, and incident-oriented troubleshooting.
+- Linux operations, security hardening, Checkmk Distributed/MSP monitoring, alerting, and incident-oriented troubleshooting.
+- Hetzner Dedicated/Cloud operations across bare-metal, cloud, and migration contexts.
 - MSP infrastructure experience where automation has to meet real production constraints.
 - Daily AI-assisted engineering workflows for debugging, documentation, runbook structure, IaC pattern comparison, and review support.
 
@@ -24,7 +25,8 @@ I work well in infrastructure-heavy teams that need pragmatic automation: reprod
 
 ```text
 Ansible · Docker · Docker Compose · Traefik · GitLab CI/CD · Linux
-Checkmk · Wazuh · Hetzner · VMware · Bash · PowerShell · Go agents
+Checkmk Distributed/MSP · Wazuh · Hetzner Dedicated/Cloud · VMware
+Bash · PowerShell · Go agents
 ```
 
 [Back to role profiles](README.md)

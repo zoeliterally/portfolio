@@ -29,7 +29,7 @@ This portfolio is a public, recruiter-friendly overview. Most professional sourc
 
 ## Selected Highlights
 
-- Led and implemented operational platform work around **Veeam**, managed backup repositories, monitoring, SIEM, and datacenter migration.
+- Led and implemented operational platform work around **Veeam**, managed backup repositories, **Checkmk Distributed/MSP monitoring as a customer/reseller service**, SIEM, and datacenter migration to **Hetzner Dedicated/Cloud** infrastructure.
 - Built internal tools with **Java/Spring Boot**, **Python/FastAPI**, **Flask**, and **Go** for SSH access workflows, API/auth foundations, maintenance automation, monitoring, and ticket feedback.
 - Use **OpenAI/ChatGPT/Codex**, **Claude**, **Gemini**, and **GitHub Copilot** daily for AI-assisted engineering: code exploration, review, documentation, debugging, architecture options, and agentic coding workflows.
 - Designed and delivered a document search system using **Elasticsearch** and **Apache Tika** over a large file archive.

@@ -8,6 +8,7 @@ I have hands-on experience in managed-service operations where infrastructure, b
 
 - Veeam platform work around service-provider console operations, managed repositories, migration support, restore thinking, and alert handling.
 - Linux-based repository servers, hardening, monitoring, and lifecycle operations.
+- Checkmk Distributed/MSP monitoring offered as a customer/reseller service, including host/service onboarding, updates, rollout work, and alert support.
 - SIEM deployment and agent rollout with Wazuh and Ansible.
 - Ticket-driven operations with a focus on prioritization, root cause, documentation, and recurring automation.
 - Cross-functional work between support, infrastructure, development, and leadership.
@@ -21,9 +22,9 @@ I have hands-on experience in managed-service operations where infrastructure, b
 ## Technology Snapshot
 
 ```text
-Veeam · VSPC · backup repositories · Linux · Ansible · Checkmk
-Wazuh · Docker · Traefik · Zammad-style ticket workflows · PowerShell · Bash
+Veeam · VSPC · backup repositories · Linux · Ansible
+Checkmk Distributed/MSP · Wazuh · Hetzner Dedicated/Cloud
+Docker · Traefik · Zammad-style ticket workflows · PowerShell · Bash
 ```
 
 [Back to role profiles](README.md)
-
