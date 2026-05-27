@@ -9,6 +9,7 @@ This portfolio is a public, recruiter-friendly overview. Most professional sourc
 - [Role Profiles](role-profiles/README.md) — quick paths for recruiters and hiring teams
 - [Case Studies](case-studies/README.md) — selected projects in more detail
 - [Skills Matrix](skills.md) — technologies grouped by practical use
+- [Freelance Work](freelance.md) — scoped weekend projects around internal tools, platform automation, and AI-assisted engineering
 - [Career Timeline](career-timeline.md) — chronological overview
 - [Contact](contact.md) — profile links
 
@@ -21,6 +22,7 @@ This portfolio is a public, recruiter-friendly overview. Most professional sourc
 | Platform / DevOps Engineer | [Platform & DevOps](role-profiles/platform-devops.md) |
 | Backend / Full Stack Developer | [Backend & Internal Tools](role-profiles/backend-fullstack.md) |
 | MSP / Veeam / IT Operations | [MSP & IT Operations](role-profiles/msp-it-ops.md) |
+| Freelance internal tools / platform automation | [Freelance Work](freelance.md) |
 | Team Lead / Head of IT | [Technical Leadership](role-profiles/technical-leadership.md) |
 | AI-assisted Engineering | [AI-assisted Engineering & Knowledge Work](case-studies/ai-assisted-engineering.md) |
 | Legacy / Oracle Modernization | [Legacy & Modernization](role-profiles/legacy-modernization.md) |

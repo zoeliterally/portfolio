@@ -7,6 +7,7 @@ Recruiter-oriented entry points into the portfolio.
 | [Platform & DevOps](platform-devops.md) | Infrastructure automation, CI/CD, Linux, Docker, monitoring |
 | [Backend & Internal Tools](backend-fullstack.md) | Java/Spring, Python/FastAPI, Go, APIs, operational tooling |
 | [MSP & IT Operations](msp-it-ops.md) | Veeam, backup platforms, SIEM, monitoring, managed infrastructure |
+| [Freelance Work](../freelance.md) | Scoped weekend projects around internal tools, platform automation, and AI-assisted engineering |
 | [Technical Leadership](technical-leadership.md) | Head of IT, small team leadership, mentoring, hands-on ownership |
 | [AI-assisted Engineering](../case-studies/ai-assisted-engineering.md) | OpenAI/Codex, Claude, Gemini, Copilot, agentic coding, documentation and review |
 | [Legacy & Modernization](legacy-modernization.md) | Oracle, PL/SQL, Perl, enterprise modernization, migration context |
